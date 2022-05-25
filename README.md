@@ -1,1 +1,6 @@
 # ibe_approx_trapdoors
+
+## To build, just use the different Makefiles.
+Our benchemarks were built using the command "make timing".
+
+## The different parameters are in the common.h file.
